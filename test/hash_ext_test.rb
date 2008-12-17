@@ -1,5 +1,4 @@
-require 'test/unit'
-require "#{File.dirname(__FILE__)}/../lib/hash_ext"
+require 'test_helper'
 
 class TestReminder < Test::Unit::TestCase
   def test_simple_addition

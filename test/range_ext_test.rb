@@ -1,6 +1,4 @@
-require 'rubygems'
-require 'test/unit'
-require '../lib/range_ext'
+require 'test_helper'
 
 class RangeTest < Test::Unit::TestCase
   def test_interpolate_for_integers
