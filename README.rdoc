@@ -1,0 +1,15 @@
+= support
+
+A place to put these odd bits of ruby core extensions
+
+== Install
+
+gem install danielharan-support
+
+It's hosted on github, so you may need to do this first:
+
+gem sources -a http://gems.github.com
+
+== License
+
+Copyright (c) 2008 Daniel Haran - MIT-LICENSE
