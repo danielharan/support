@@ -2,7 +2,7 @@ require 'rubygems'
 require 'rake'
 require 'echoe'
 
-Echoe.new('support', '0.1.1') do |p|
+Echoe.new('support', '0.2.0') do |p|
   p.description    = "A collection of ruby core extensions I find useful."
   p.url            = "http://github.com/danielharan/support"
   p.author         = "Daniel Haran"
