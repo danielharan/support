@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class TestReminder < Test::Unit::TestCase
+class HashTest < Test::Unit::TestCase
   def test_simple_addition
     assert_equal({:a => 2, :b => 1}, 
                  {:a => 1, :b => 1} + {:a => 1})
